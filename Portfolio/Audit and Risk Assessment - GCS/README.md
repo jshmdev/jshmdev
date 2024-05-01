@@ -15,10 +15,4 @@ The goals for Botium Toys’ internal IT audit are:
 *	Fortify system controls
 *	Implement the concept of least permissions when it comes to user credential management 
 *	Establish their policies and procedures, which includes their playbooks 
-*	Ensure they are meeting compliance requirements 
-
-
-* Title
-* Introduction with the problem solved, data used and modeling results
-* Modeling and Evaluation describing the models used for the project and evaluation metrics applied
-* Conclusion with my recommendations for solving the problem and a description of future expansion.
+*	Ensure they are meeting compliance requirements
